@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dincengincan.github.io/giphy-app",
+  "homepage": "http://dincengincan.github.io/gif-app",
   "name": "giphy",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +26,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
