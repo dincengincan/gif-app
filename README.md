@@ -1,3 +1,3 @@
 # Gif App
 
-Here is [demo](http://dincengincan.github.io/giphy-app)
+Here is [demo](http://dincengincan.github.io/gif-app)
